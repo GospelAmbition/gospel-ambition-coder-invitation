@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Gospel Ambition - Coder Inviation
+ * Plugin Name: Gospel Ambition - Coder Invitation
  * Plugin URI: https://github.com/ChasmSolutions/gospel-ambition-coder-invitation
  * Description: Gospel Ambition (secret) coder invitation.
  * Version:  0.1
