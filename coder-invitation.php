@@ -54,7 +54,9 @@ people instantly reach and influence the world with little
 more than vision, passion, some coffee, and a laptop.
 
 Reach out to us here and join us:
-https://zume.community
+https://zume.community (A community of disciple making movement practitioners)
+https://disciple.tools (A community of technologists building a disciple making movement software)
+https://kingdom.training (A community of faith pioneers using media outreach to find seekers on the internet)
         `)
     </script>
     <?php
