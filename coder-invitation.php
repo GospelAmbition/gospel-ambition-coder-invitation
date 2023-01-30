@@ -56,7 +56,7 @@ and a laptop.
 
 Reach out to us here and join us:
 
-https://zume.community
+https://zume.vision
 A community of disciple making movement practitioners.
 
 https://disciple.tools
