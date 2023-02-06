@@ -66,6 +66,12 @@ a disciple making movement software
 https://kingdom.training
 A community of faith pioneers using media outreach to
 find seekers on the internet
+
+https://pray4movement.org
+Communities of extraordinary prayer
+
+https://prayer.global
+A challenge to pray for the entire world as a community
         `)
     </script>
     <?php
