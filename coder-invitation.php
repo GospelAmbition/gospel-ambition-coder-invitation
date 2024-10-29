@@ -8,7 +8,7 @@
  * GitHub Plugin URI: https://github.com/ChasmSolutions/gospel-ambition-coder-invitation
  * Requires at least: 4.7.0
  * (Requires 4.7+ because of the integration of the REST API at 4.7 and the security requirements of this milestone version.)
- * Tested up to: 5.4
+ * Tested up to: 6.2
  *
  * @package Disciple_Tools
  * @link    https://github.com/DiscipleTools
@@ -56,7 +56,7 @@ and a laptop.
 
 Reach out to us here and join us:
 
-https://zume.vision
+https://zume.training
 A community of disciple making movement practitioners.
 
 https://disciple.tools
@@ -67,7 +67,7 @@ https://kingdom.training
 A community of faith pioneers using media outreach to
 find seekers on the internet
 
-https://pray4movement.org
+https://prayer.tools
 Communities of extraordinary prayer
 
 https://prayer.global

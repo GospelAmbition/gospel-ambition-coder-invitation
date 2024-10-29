@@ -38,7 +38,7 @@ and a laptop.
 
 Reach out to us here and join us:
 
-https://zume.vision
+https://zume.training
 A community of disciple making movement practitioners.
 
 https://disciple.tools
@@ -49,7 +49,7 @@ https://kingdom.training
 A community of faith pioneers using media outreach to
 find seekers on the internet
 
-https://pray4movement.org
+https://prayer.tools
 Communities of extraordinary prayer
 
 https://prayer.global
