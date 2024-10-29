@@ -3,7 +3,7 @@
  * Plugin Name: Gospel Ambition - Coder Invitation
  * Plugin URI: https://github.com/ChasmSolutions/gospel-ambition-coder-invitation
  * Description: Gospel Ambition (secret) coder invitation.
- * Version:  0.1
+ * Version:  1.0
  * Author URI: https://github.com/DiscipleTools
  * GitHub Plugin URI: https://github.com/ChasmSolutions/gospel-ambition-coder-invitation
  * Requires at least: 4.7.0
